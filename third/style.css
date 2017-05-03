@@ -1,0 +1,45 @@
+header {
+    height: 12vh;
+    background-color: #D8D8D8;
+    width: 100vw;
+}
+.box {
+    background-color: #4A90E2;
+    height: 9vh;
+    width: 9vw;
+    float: left;
+    margin-top: 1.5vh;
+    margin-left: 3vw;
+}
+.text {
+    height: 40vh;
+    width: 100vw;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size: 1.5em;
+    text-align: justify;
+    padding-right: 5vw;
+    padding-left: 5vw;
+    padding-top: 10vh;
+
+
+}
+.one {
+    height: 12vh;
+    background-color: #4A90E2;
+    width: 100vw;    
+}
+.two {
+    height: 12vh;
+    background-color: #50E3C2;
+    width: 100vw;    
+}
+.three {
+    height: 12vh;
+    background-color: #B8E986;
+    width: 100vw;    
+}
+footer {
+    height: 12vh;
+    background-color: #F8E71C;
+    width: 100vw;    
+}

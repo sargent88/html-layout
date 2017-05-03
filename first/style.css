@@ -1,0 +1,30 @@
+header {
+    background-color: rgb(68,68,68);
+    height: 20vh;
+    width: 100vw;
+}
+.right {
+    background-color: rgb(216,216,216);
+    width: 10vw;
+    height: 80vh;
+    float: right;
+}
+.left {
+    background-color: rgb(216,216,216);
+    width: 10vw;
+    height: 80vh;
+    float: left;
+}
+.middle {
+    background-color: rgb(239,239,239);
+    width: 80vw;
+    height: 70vh;
+    margin: auto;
+}
+
+footer {
+    background-color: rgb(34,34,34);
+    height: 10vh;
+    width: 80vw;
+    margin: auto;
+}
